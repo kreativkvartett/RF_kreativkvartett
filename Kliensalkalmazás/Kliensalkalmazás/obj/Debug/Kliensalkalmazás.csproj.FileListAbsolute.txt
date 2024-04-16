@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\bin\Debug\Kliensalkalmazás.exe.config
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\bin\Debug\Kliensalkalmazás.exe
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\bin\Debug\Kliensalkalmazás.pdb
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.Form1.resources
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.Form2.resources
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.Properties.Resources.resources
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.exe
+C:\Users\dell\source\repos\Kliensalkalmazás\Kliensalkalmazás\obj\Debug\Kliensalkalmazás.pdb
